@@ -3,6 +3,6 @@ def print_list(list):
         print(list[i],end=" ")
 
 cities=["Delhi","Noida","Amritsar","Patna","Dehrdun"]
-heroes=["Yogi","Modi","Doval","Shah"]
+heoes=["Aniket","Spiderman","Batman","Hulk"]
 print_list(cities)
 print_list(heroes)
