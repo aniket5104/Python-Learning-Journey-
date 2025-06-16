@@ -3,6 +3,6 @@ def list_len(list):
     print(len(list))
 
 cities=["Delhi","Noida","Amritsar","Patna","Dehrdun"]
-heoes=["Yogi","Modi","Doval","Shah"]
+heoes=["Aniket","Spiderman","Batman","Hulk"]
 list_len(cities)
 list_len(heoes)
