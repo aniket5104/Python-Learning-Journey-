@@ -1,0 +1,1 @@
+print("Aniket "*5)
